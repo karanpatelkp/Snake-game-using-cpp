@@ -1,0 +1,3 @@
+/home/karan/snake_game_project/CppND-Capstone-Snake-Game/build/CMakeFiles/SnakeGame.dir
+/home/karan/snake_game_project/CppND-Capstone-Snake-Game/build/CMakeFiles/edit_cache.dir
+/home/karan/snake_game_project/CppND-Capstone-Snake-Game/build/CMakeFiles/rebuild_cache.dir
